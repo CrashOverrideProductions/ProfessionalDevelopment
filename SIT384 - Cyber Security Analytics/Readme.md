@@ -1,6 +1,6 @@
-SIT384 - Cyber Security Analytics (T1 2020)
+## SIT384 - Cyber Security Analytics (T1 2020)
 
-Task List
+### Task List
   - [x] Task 1.1: Words Input and Output
   - [x] Task 1.2: Python data structure initialization and printing
   - [x] Task 1.3: Nested Loop
@@ -21,6 +21,6 @@ Task List
   - [x] Task 9.1: Grid Search with Cross-Validation
   - [x] Task 11.1: Prepare your learning summary report and portfolio
   
-## Licence
+### Licence
 
 This repository is for educational purposes only. 
