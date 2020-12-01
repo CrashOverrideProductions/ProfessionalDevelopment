@@ -1,4 +1,4 @@
-SIT232 - Object Oriented Development (T2 2020)
+SIT384 - Cyber Security Analytics (T1 2020)
 
 Task List
 
