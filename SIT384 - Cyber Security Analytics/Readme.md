@@ -1,4 +1,4 @@
-## SIT384 - Cyber Security Analytics (T1 2020) <img alt="" src="https://img.shields.io/badge/Code-Python-success?style=flat&logo=Python&logoColor=white&color=3776AB" />
+## SIT384 - Cyber Security Analytics (T1 2020) <img alt="" src="https://img.shields.io/badge/Code-Python-success?style=flat&logo=Python&logoColor=white&color=3776AB" /> <img alt="" src="https://img.shields.io/badge/Grade-Credit-success?style=flat" />
 
 
 ### Task List
