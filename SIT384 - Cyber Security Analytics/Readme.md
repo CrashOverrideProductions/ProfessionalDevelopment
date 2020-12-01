@@ -1,4 +1,5 @@
-## SIT384 - Cyber Security Analytics (T1 2020)
+## SIT384 - Cyber Security Analytics (T1 2020) <img alt="" src="https://img.shields.io/badge/Code-Python-success?style=flat&logo=Python&logoColor=white&color=3776AB" />
+
 
 ### Task List
   - [x] Task 1.1: Words Input and Output
