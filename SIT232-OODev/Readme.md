@@ -1,4 +1,4 @@
-## SIT232 - Object Oriented Development (T2 2020) <img alt="" src="https://img.shields.io/badge/Code-C%20Sharp-success?style=flat&logo=C%20Sharp&logoColor=white&color=239120" /><img alt="" src="https://img.shields.io/badge/Grade-Credit-success?style=flat" />
+## SIT232 - Object Oriented Development (T2 2020) <img alt="" src="https://img.shields.io/badge/Code-C%20Sharp-success?style=flat&logo=C%20Sharp&logoColor=white&color=239120" />  <img alt="" src="https://img.shields.io/badge/Grade-Credit-success?style=flat" />
 
 ### Task List
   - [x] Task 1.1: Hello World 
