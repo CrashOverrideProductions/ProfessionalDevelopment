@@ -9,6 +9,6 @@ If you are on Mac or Linux — you will have to use Visual Studio Code.
 
 ## Submission Details
 You must submit following files to onTrack:
-■ Hello World source code (the Program.cs file)
-■ A screen shot of your program running
-■ Screen shot demonstraCng a working IDE on your local computer
+[X] Hello World source code (the Program.cs file)
+[X] A screen shot of your program running
+[X] Screen shot demonstraCng a working IDE on your local computer
