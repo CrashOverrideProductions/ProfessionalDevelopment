@@ -8,10 +8,17 @@
 - [X] 3CX Intermediate Certified Engineer v16   	ID: UBlSSR9LYN 
 
 <!-- Other Training -->
-### Training
-- [ ] (Udemy) Linux for Network Engineers: Practical Linux with GNS3
-- [ ] (Udemy) Wireshark: Packet Analysis and Ethical Hacking: Core Skills
-- [ ] (Udemy) Cisco CCNA 200-301 Exam: Complete Course with practical labs
+### Udemy Training
+- [ ] Linux for Network Engineers: Practical Linux with GNS3
+- [ ] Wireshark: Packet Analysis and Ethical Hacking: Core Skills
+- [ ] Cisco CCNA 200-301 Exam: Complete Course with practical labs
+
+### Free Code Camp Training
+#### Responsive Web Design Certification
+- [X] Basic HTML and HTML5
+- [ ] Basic CSS
+- [ ] Applied Visual Design
+- [ ] 
 
 <!-- Deakin Unit List -->
 ### Uni Files
