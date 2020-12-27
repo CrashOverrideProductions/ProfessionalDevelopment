@@ -24,6 +24,15 @@
 - [ ] CSS Grid - 0/22
 - [ ] Responsive Web Design Projects - 0/5
 
+#### Scientific Computing with Python Certification
+- [X] Python for Everybody - 56/56
+- [X] Scientific Computing with Python Projects - 0/5
+
+#### Data Analysis with Python Certification
+- [X] Data Analysis with Python Course - 28/28
+- [X] Numpy - 9/9
+- [ ] Data Analysis with Python Projects - 0/5
+
 <!-- Deakin Unit List -->
 ### Uni Files
 - [X] SIT232 - Object Oriented Development
