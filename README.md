@@ -15,10 +15,14 @@
 
 ### Free Code Camp Training
 #### Responsive Web Design Certification
-- [X] Basic HTML and HTML5
-- [ ] Basic CSS
-- [ ] Applied Visual Design
-- [ ] 
+- [X] Basic HTML and HTML5 - 28/28
+- [ ] Basic CSS - 1/44
+- [ ] Applied Visual Design - 0/52
+- [ ] Applied Accessibility - 0/22
+- [ ] Responsive Web Design Prinicpals - 0/4
+- [ ] CSS Flexbox - 0/17
+- [ ] CSS Grid - 0/22
+- [ ] Responsive Web Design Projects - 0/5
 
 <!-- Deakin Unit List -->
 ### Uni Files
