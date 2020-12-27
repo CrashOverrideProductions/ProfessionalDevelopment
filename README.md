@@ -26,7 +26,7 @@
 
 #### Scientific Computing with Python Certification
 - [X] Python for Everybody - 56/56
-- [X] Scientific Computing with Python Projects - 0/5
+- [ ] Scientific Computing with Python Projects - 0/5
 
 #### Data Analysis with Python Certification
 - [X] Data Analysis with Python Course - 28/28
