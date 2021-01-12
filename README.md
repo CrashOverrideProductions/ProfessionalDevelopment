@@ -38,6 +38,8 @@
 ### Uni Files
 - [X] SIT232 - Object Oriented Development
 - [X] SIT384 - Cyber Security Analytics
+- [X] CPT250 - Data and Computer Communications
+- [X] ...... - Database Concepts
 
 
 <!-- Licencing Always at the Bottom -->
