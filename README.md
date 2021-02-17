@@ -11,6 +11,7 @@
 <!-- Professional Training without Certifications -->
 ### Professional Training
 - [X] Amazon AWS Cloud Practitioner Essentials
+- [X] Amazon AWS Introduction to Serverless Development
 
 
 <!-- Other Training -->
