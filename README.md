@@ -8,6 +8,11 @@
 - [X] 3CX Intermediate Certified Engineer v16 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ID: UBlSSR9LYN 
 - [ ] 3CX Advanced Certified Engineer v16 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ID:  
 
+<!-- Professional Training without Certifications -->
+### Professional Training
+- [X] Amazon AWS Cloud Practitioner Essentials
+
+
 <!-- Other Training -->
 ### Udemy Training
 - [ ] Linux for Network Engineers: Practical Linux with GNS3
