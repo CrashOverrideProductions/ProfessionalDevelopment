@@ -23,6 +23,7 @@
 
 #### Amazon AWS: Serverless
 - [X] Introduction to Decoupled Applications
+- [X] Serverless Analytics
 
 <!-- Other Training -->
 ### Udemy Training
