@@ -27,6 +27,8 @@
 
 #### Amazon AWS: Networking and Content Delivery
 - [X] Introduction to Amazon Route 53 Resolver
+- [X] Subnets, Gateways, and Route Tables Explained
+- 
 
 <!-- Other Training -->
 ### Udemy Training
