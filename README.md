@@ -21,6 +21,9 @@
 - [X] Introduction to EC2 Auto Scaling
 - [X] Introduction to AWS Elastic Beanstalk
 
+#### Amazon AWS: Serverless
+- [X] Introduction to Decoupled Applications
+
 <!-- Other Training -->
 ### Udemy Training
 - [ ] Linux for Network Engineers: Practical Linux with GNS3
