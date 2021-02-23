@@ -25,6 +25,8 @@
 - [X] Introduction to Decoupled Applications
 - [X] Serverless Analytics
 
+#### Amazon AWS: Networking and Content Delivery
+
 <!-- Other Training -->
 ### Udemy Training
 - [ ] Linux for Network Engineers: Practical Linux with GNS3
