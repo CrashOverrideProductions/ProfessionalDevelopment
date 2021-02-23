@@ -35,6 +35,7 @@
 - [X] AWS Snowcone Getting Started
 - [X] Introduction to AWS Snowball Edge
 - [X] Introduction to AWS Backup
+- [X] Introduction to Amazon FSx for Windows File Server
 
 <!-- Other Training -->
 ### Udemy Training
