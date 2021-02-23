@@ -31,6 +31,7 @@
 
 #### Amazon AWS: Storage
 - [X] Simple Storage Service - Basics
+- [X] Introduction to AWS Snowmobile
 
 <!-- Other Training -->
 ### Udemy Training
