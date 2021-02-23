@@ -18,8 +18,8 @@
 - [X] Getting Started with Cloud Acquisition
 
 #### Amazon AWS: Compute
-- [ ] Introduction to EC2 Auto Scaling
-- [ ] Introduction to AWS Elastic Beanstalk
+- [X] Introduction to EC2 Auto Scaling
+- [X] Introduction to AWS Elastic Beanstalk
 
 <!-- Other Training -->
 ### Udemy Training
