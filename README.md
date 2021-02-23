@@ -33,6 +33,7 @@
 - [X] Simple Storage Service - Basics
 - [X] Introduction to AWS Snowmobile
 - [X] AWS Snowcone Getting Started
+- [X] Introduction to AWS Snowball Edge
 
 <!-- Other Training -->
 ### Udemy Training
