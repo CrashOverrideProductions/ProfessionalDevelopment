@@ -26,6 +26,7 @@
 - [X] Serverless Analytics
 
 #### Amazon AWS: Networking and Content Delivery
+- [X] Introduction to Amazon Route 53 Resolver
 
 <!-- Other Training -->
 ### Udemy Training
