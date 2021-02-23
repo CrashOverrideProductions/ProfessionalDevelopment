@@ -10,12 +10,16 @@
 
 <!-- Professional Training without Certifications -->
 ### Professional Training
-- [X] Amazon AWS: Cloud Practitioner Essentials
-- [X] Amazon AWS: Introduction to Serverless Development
-- [X] Amazon AWS: Introduction to Amazon Elastic Compute Cloud (EC2)
-- [X] Amazon AWS: Foundations: Getting Started with the AWS Cloud Essentials
-- [X] Amazon AWS: Getting Started with Cloud Acquisition
+#### Amazon AWS - Cloud Essentials
+- [X] Cloud Practitioner Essentials
+- [X] Introduction to Serverless Development
+- [X] Introduction to Amazon Elastic Compute Cloud (EC2)
+- [X] Foundations: Getting Started with the AWS Cloud Essentials
+- [X] Getting Started with Cloud Acquisition
 
+#### Amazon AWS: Compute
+- [ ] Introduction to EC2 Auto Scaling
+- [ ] Introduction to AWS Elastic Beanstalk
 
 <!-- Other Training -->
 ### Udemy Training
