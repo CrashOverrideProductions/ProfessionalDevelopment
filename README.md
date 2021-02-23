@@ -29,6 +29,9 @@
 - [X] Introduction to Amazon Route 53 Resolver
 - [X] Subnets, Gateways, and Route Tables Explained
 
+#### Amazon AWS: Storage
+- [X] Simple Storage Service - Basics
+
 <!-- Other Training -->
 ### Udemy Training
 - [ ] Linux for Network Engineers: Practical Linux with GNS3
