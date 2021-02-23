@@ -34,6 +34,7 @@
 - [X] Introduction to AWS Snowmobile
 - [X] AWS Snowcone Getting Started
 - [X] Introduction to AWS Snowball Edge
+- [X] Introduction to AWS Backup
 
 <!-- Other Training -->
 ### Udemy Training
