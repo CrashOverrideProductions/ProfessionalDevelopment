@@ -1,4 +1,5 @@
-## SIT210 - Embedded Systems Development (T1 2021) <img alt="" src="https://img.shields.io/badge/Platform-Raspberry%20Pi-success?style=flat&logo=Raspberry%20Pi&logoColor=white&color=A22846" />  <img alt="" src="https://img.shields.io/badge/Platform-Particle%20Argon-success?style=flat&logo=Espressif&logoColor=white&color=E7352C" />  
+## SIT210 - Embedded Systems Development (T1 2021) 
+<img alt="" align="right" src="https://img.shields.io/badge/Platform-Raspberry%20Pi-success?style=flat&logo=Raspberry%20Pi&logoColor=white&color=A22846" />  <img alt="" align="right" src="https://img.shields.io/badge/Platform-Particle%20Argon-success?style=flat&logo=Espressif&logoColor=white&color=E7352C" />  
 
 ### Task List
   - [x] Task 1.1: Submit a Name File 
