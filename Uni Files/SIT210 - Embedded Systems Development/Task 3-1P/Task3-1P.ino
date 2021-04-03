@@ -9,8 +9,6 @@
 #include <JsonParserGeneratorRK.h>
 #include <Grove_Temperature_And_Humidity_Sensor.h>
 
-DHT dht(D3);
-
 double temp;
 double humid;
 
