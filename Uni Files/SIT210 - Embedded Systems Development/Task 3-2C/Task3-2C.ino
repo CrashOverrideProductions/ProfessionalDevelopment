@@ -13,8 +13,14 @@
 // =======================================================================
 
 int LDR = A2;
-int x;
 
+int oldValue;
+int newValue;
+
+int luxLen = 10;
+
+int luxThreshold = 1100;
+int currentState = 0; // 0 = Low | 1 = High
 
 void setup() {
     pinMode(LDR, INPUT);
@@ -22,18 +28,50 @@ void setup() {
 }
 
 void loop() {
-    x = analogRead(LDR);
-    if (x > 2500)
+    
+    getLumValue();
+    
+    if (newValue < luxThreshold)
     {
-        Particle.publish("Light", "Detected High", PRIVATE);
-    }
-    else if (x < 2500 && value > 1200)
-    {
-        Particle.publish("Light", "Detected Low", PRIVATE);
+        // Dark
+        if (currentState != 0)
+        {
+            Particle.publish("Light", "No Light Detected", PRIVATE);
+            currentState = 0;
+        }
     }
     else
     {
-        Particle.publish("Light", "Not Detected", PRIVATE);
+        // Light
+                if (currentState != 1)
+        {
+            Particle.publish("Light", "Light Detected", PRIVATE);
+            currentState = 1;
+        } 
     }
-delay(5000);
+   
+    Serial.println(oldValue);
+    Serial.println(newValue);
+    delay(5000);
+}
+
+
+void getLumValue()
+{
+    int luxReading[luxLen];
+    
+    for (int i = 0; i < luxLen -1; i++)
+    {
+        luxReading[i] = analogRead(LDR);
+        delay(100);
+    }
+    
+    int tempValue = 0;
+    
+    for (int i = 0; i < luxLen -1; i++)
+    {
+    tempValue = (tempValue + luxReading[i]);    
+    }
+    
+    newValue = (tempValue / luxLen);
 }
