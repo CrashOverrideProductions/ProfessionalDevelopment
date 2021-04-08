@@ -13,7 +13,7 @@
 // =======================================================================
 
 int LDR = A2;
-int value;
+int x;
 
 
 void setup() {
@@ -22,12 +22,12 @@ void setup() {
 }
 
 void loop() {
-    value = analogRead(LDR);
-    if (value > 2500)
+    x = analogRead(LDR);
+    if (x > 2500)
     {
         Particle.publish("Light", "Detected High", PRIVATE);
     }
-    else if (value < 2500 && value > 1200)
+    else if (x < 2500 && value > 1200)
     {
         Particle.publish("Light", "Detected Low", PRIVATE);
     }
