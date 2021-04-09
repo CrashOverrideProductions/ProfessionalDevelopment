@@ -29,7 +29,8 @@ void setup() {
 
 void loop() {
     
-    getLumValue();
+    if (getLumValue())
+    {
     
     if (newValue < luxThreshold)
     {
@@ -53,10 +54,15 @@ void loop() {
     Serial.println(oldValue);
     Serial.println(newValue);
     delay(5000);
+    }
+    else
+    {
+        Particle.publish("Light", "Error", PRIVATE);
+    }
 }
 
 
-void getLumValue()
+bool getLumValue()
 {
     int luxReading[luxLen];
     
@@ -74,4 +80,6 @@ void getLumValue()
     }
     
     newValue = (tempValue / luxLen);
+    
+    return true;
 }
