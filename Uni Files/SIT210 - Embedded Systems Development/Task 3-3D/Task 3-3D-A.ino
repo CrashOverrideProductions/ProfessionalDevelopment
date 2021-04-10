@@ -17,9 +17,6 @@
 // Variables
 int LED = D7;                     // LED GPIO Pin
 
-// Event Handler
-//void myHandler(const char *event, const char *data);
-
 // Setup Function
 void setup()
 {
