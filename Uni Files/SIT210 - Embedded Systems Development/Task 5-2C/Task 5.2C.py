@@ -24,7 +24,7 @@ from PyQt5.QtWidgets import QApplication, QMainWindow
 # Define Variables
 xMin = 200
 yMin = 200
-width = 355
+width = 475
 height = 54
 
 redGPIO = 13    #Board Pin 33
@@ -64,6 +64,12 @@ class LEDControl(QMainWindow):
         self.buttonBlue.setText("Blue")
         self.buttonBlue.move(240,10)
         self.buttonBlue.clicked.connect(self.ToggleBlue)
+        
+        # Button Off
+        self.buttonOff = QtWidgets.QPushButton(self)
+        self.buttonOff.setText("OFF")
+        self.buttonOff.move(355,10)
+        self.buttonOff.clicked.connect(self.AllOff)
         
     def AllOff(self):
         GPIO.output(redGPIO, GPIO.LOW)
