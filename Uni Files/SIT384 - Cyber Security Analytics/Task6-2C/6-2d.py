@@ -1,114 +1,66 @@
-#   Unit:       SIT384 - Cyber Security Analytics
-#   Task:       Distinction Task Task 6.2d
-#   Author:     Justin Bland
-#   Date:       12/04/2020
+# =======================================================================
+# Application:      Morse Blinky
+# Purpose:          Task 5.3D RPi - Morse Code Using GUI
+# Author:           Justin Bland
+# Date:             30/04/2021
+# Status            In Development 
+# Revisions         30/04/2021 - Create File 
+# =======================================================================
 
-# Imports Required
-# Imports Required
+# USEFUL INFORMATION ====================================================
+# - CODE FORMATTING:
+#      Line Length:    75 Characters +~5% if needed 
+# =======================================================================
 
-import numpy as np
-import matplotlib.pyplot as plt
-import pandas as pd
-from sklearn.model_selection import train_test_split
-from sklearn.tree import DecisionTreeClassifier
+# Imports
+#import RPi.GPIO as GPIO
 
-from sklearn.linear_model import LogisticRegression
-from sklearn.svm import LinearSVC
+import time
+import sys
 
+from PyQt5 import QtWidgets
+from PyQt5.QtWidgets import QApplication, QMainWindow
 
-# Import and Prepare Data
-Data = pd.read_csv('payment_fraud.csv')
-Data = pd.get_dummies(Data, columns=['paymentMethod'])
+# Define Variables
+xMin = 200
+yMin = 200
+width = 475
+height = 54
 
+redGPIO = 13    #Board Pin 33
 
+# GPIO Setup
+#GPIO.setmode(GPIO.BCM) 
+#GPIO.setup(redGPIO, GPIO.OUT)
 
+class MorseBlinky(QMainWindow): 
+    def __init__(self): 
+        super(MorseBlinky, self).__init__()
 
-def Generate_Coefficient_Magnitude(Data):
-   fig, ax = plt.subplots(figsize=(7, 7), dpi = 100)
-      
-   x = pd.DataFrame(Data,columns=['accountAgeDays','numItems','localTime','paymentMethodAgeDays','paymentMethod_creditcard', 'paymentMethod_paypal','paymentMethod_storecredit'])
-   y = pd.DataFrame(Data,columns=['label'])
+        self.setGeometry(xMin, yMin, width, height)
+        self.setWindowTitle("Morse Blinky")     
+        self.initUI()           
     
-   X_train, X_test, y_train, y_test = train_test_split(x,y, stratify=y, train_size = 0.33)
-    
-   # Logical Regression C=1
-   logreg1 = LogisticRegression(C=1).fit(X_train, y_train)
-   print("Training set score: {:.3f}".format(logreg1.score(X_train, y_train)))
-   print("Test set score: {:.3f}".format(logreg1.score(X_test, y_test)))
-    
-   # Logical Regression C=100
-   logreg100 = LogisticRegression(C=100).fit(X_train, y_train)
-   print("Training set score: {:.3f}".format(logreg100.score(X_train, y_train)))
-   print("Test set score: {:.3f}".format(logreg100.score(X_test, y_test)))
-    
-   # Logical Regression C=10
-   logreg10 = LogisticRegression(C=10).fit(X_train, y_train)
-   print("Training set score: {:.3f}".format(logreg10.score(X_train, y_train)))
-   print("Test set score: {:.3f}".format(logreg10.score(X_test, y_test)))
-    
-   # Logical Regression C=0.01
-   logreg001 = LogisticRegression(C=0.01).fit(X_train, y_train)
-   print("Training set score: {:.3f}".format(logreg001.score(X_train, y_train)))
-   print("Test set score: {:.3f}".format(logreg001.score(X_test, y_test)))
-   
-   # Logical Regression C=0.001
-   logreg0001 = LogisticRegression(C=0.001).fit(X_train, y_train)
-   print("Training set score: {:.3f}".format(logreg0001.score(X_train, y_train)))
-   print("Test set score: {:.3f}".format(logreg0001.score(X_test, y_test)))
-   
-   plt.plot(logreg1.coef_.T, '^', label="C=1")
-   plt.plot(logreg100.coef_.T, 'v', label="C=100")
-   plt.plot(logreg10.coef_.T, '*', label="C=10")
-   plt.plot(logreg001.coef_.T, 'o', label="C=0.01")
-   plt.plot(logreg0001.coef_.T, 's', label="C=0.001")
-   
-   plt.xticks(range(x.shape[1]), x.columns, rotation=90)
-   #plt.xticks(x,x.columns,rotation=90)
-   
-   xlims = plt.xlim()
-   plt.hlines(0, xlims[0], xlims[1])
-   plt.xlim(xlims)
-   plt.ylim(-5, 5)
-   plt.xlabel("Feature")
-   plt.ylabel("Coefficient magnitude")
-   plt.legend()
+    def initUI(self):
 
+        # Button Send
+        self.buttonRed = QtWidgets.QPushButton(self)
+        self.buttonRed.setText("Red")
+        self.buttonRed.move(10,10)
+        self.buttonRed.clicked.connect(self.Send)
 
-def Generate_Regression_Tree(Data):
-    fig, ax = plt.subplots(figsize=(7, 7), dpi = 100)
+        self.textbox = QLineEdit(self)
+        self.textbox.move(20, 20)
+        self.textbox.resize(280,40)
 
-    Data = pd.read_csv('payment_fraud.csv')
-    Data = pd.get_dummies(Data, columns=['paymentMethod'])
-    
-    x = pd.DataFrame(Data,columns=['accountAgeDays','numItems','localTime','paymentMethodAgeDays','paymentMethod_creditcard', 'paymentMethod_paypal','paymentMethod_storecredit'])
-    y = pd.DataFrame(Data,columns=['label'])
-    X_train, X_test, y_train, y_test = train_test_split(x,y, stratify=y, train_size = 0.33)
-    
-    
-    
-    #cancer = load_breast_cancer()
-    #X_train, X_test, y_train, y_test = train_test_split(cancer.data, cancer.target, stratify=cancer.target, random_state=42)
-    
-    tree = DecisionTreeClassifier(random_state=0)
-    tree.fit(X_train, y_train)
-    
-    print("Accuracy on training set: {:.3f}".format(tree.score(X_train, y_train)))
-    print("Accuracy on test set: {:.3f}".format(tree.score(X_test, y_test)))
-    
-    
-    
-    print("Feature importances:")
-    print(tree.feature_importances_)
-    
-    def plot_feature_importances_cancer(model):
-        n_features = x.shape[1]
-        plt.barh(np.arange(n_features), model.feature_importances_, align='center')
-        plt.yticks(np.arange(n_features), x.columns)
-        plt.xlabel("Feature importance")
-        plt.ylabel("Feature")
-        plt.ylim(-1, n_features)
-    
-    plot_feature_importances_cancer(tree)
-   
-Generate_Coefficient_Magnitude(Data)
-Generate_Regression_Tree(Data)
+    def Send(self):
+            print("Test")
+
+def window():
+    app = QApplication(sys.argv)     
+    win = MorseBlinky()
+    win.show()
+    sys.exit(app.exec())
+
+window()
+#GPIO.cleanup()
