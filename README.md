@@ -38,7 +38,7 @@
     </tr>
     <tr>
       <td width="30" align="right">&check; </td>
-      <td width="49%">Cloud Practitioner Essentials</td>
+      <td>Cloud Practitioner Essentials</td>
       <td>&nbsp;</td>
       <td width="30" align="right">&check; </td>
       <td colspan="2">Simple Storage Service - Basics</td>
