@@ -167,8 +167,7 @@
       <td align="right">&cross; </td>
       <td>Applied Visual Design - 0/52</td>
       <td>&nbsp;</td>
-      <td align="right">&nbsp;</td>
-      <td colspan="2">&nbsp;</td>
+      <td colspan="3" align="right">&nbsp;</td>
     </tr>
     <tr>
       <td align="right">&cross; </td>
@@ -201,15 +200,15 @@
       <td align="right">&cross; </td>
       <td>Responsive Web Design Projects - 0/5</td>
       <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
-      <td>&nbsp;</td>
+      <td colspan="3">&nbsp;</td>
     </tr>
     <tr>
       <td colspan="6">&nbsp;</td>
     </tr>
   </tbody>
 </table>
+
+
 
 
 ---
