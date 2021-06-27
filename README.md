@@ -1,4 +1,3 @@
-# Professional Development and Training
 <p align="center">
 <img align="center" src="https://raw.githubusercontent.com/CrashOverrideProductions/ProfessionalDevelopment/main/header.jpg"> 
 
