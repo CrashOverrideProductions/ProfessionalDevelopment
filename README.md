@@ -138,7 +138,7 @@
 
 ---
 
-<table width="95%" border="0" align="center" style="max-width:900px;">
+<table width="900px" border="0" align="center" style="max-width:900px;">
   <tbody>
     <tr>
       <td colspan="6" align="left" valign="middle"><h2>Free Code Camp Training
