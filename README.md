@@ -26,25 +26,106 @@
 
 <!-- Professional Training without Certifications -->
 # Professional Training
+<table width="95%" border="0" align="center" style="max-width:900px;">
+  <tbody>
+    <tr>
+      <td colspan="6" align="left" valign="bottom"><h2><strong>&nbsp;Amazon</strong><img align="right" src="https://github.com/CrashOverrideProductions/ProfessionalDevelopment/blob/main/images/awslogo.png?raw=true" alt=""/></h2></td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>&nbsp;Amazon AWS: Cloud Essentials</strong></td>
+      <td width="1%">&nbsp;</td>
+      <td colspan="3"><strong>&nbsp;Amazon AWS: Storage </strong></td>
+    </tr>
+    <tr>
+      <td width="30" align="right">&check; </td>
+      <td width="49%">Cloud Practitioner Essentials</td>
+      <td>&nbsp;</td>
+      <td width="30" align="right">&check; </td>
+      <td colspan="2">Simple Storage Service - Basics</td>
+    </tr>
+    <tr>
+      <td align="right">&check; </td>
+      <td>Introduction to Serverless Development </td>
+      <td>&nbsp;</td>
+      <td align="right">&check; </td>
+      <td colspan="2"> Introduction to AWS Snowmobile </td>
+    </tr>
+    <tr>
+      <td align="right">&check; </td>
+      <td>Introduction to Amazon Elastic Compute Cloud (EC2)</td>
+      <td>&nbsp;</td>
+      <td align="right">&check; </td>
+      <td colspan="2">AWS Snowcone Getting Started </td>
+    </tr>
+    <tr>
+      <td align="right">&check; </td>
+      <td>Foundations: Getting Started with the AWS Cloud Essentials </td>
+      <td>&nbsp;</td>
+      <td align="right">&check; </td>
+      <td colspan="2">Introduction to AWS Snowball Edge </td>
+    </tr>
+    <tr>
+      <td align="right">&check; </td>
+      <td>Getting Started with Cloud Acquisition </td>
+      <td>&nbsp;</td>
+      <td align="right">&check; </td>
+      <td colspan="2">Introduction to AWS Backup</td>
+    </tr>
+    <tr>
+      <td align="right">&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td align="right">&check; </td>
+      <td colspan="2">Introduction to Amazon FSx for Windows File Server </td>
+    </tr>
+    <tr>
+      <td colspan="6">&nbsp;</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong> Amazon AWS: Compute </strong></td>
+      <td>&nbsp;</td>
+      <td colspan="3"><strong>Amazon AWS: Serverless </strong></td>
+    </tr>
+    <tr>
+      <td align="right">&check; </td>
+      <td>Introduction to EC2 Auto Scaling </td>
+      <td>&nbsp;</td>
+      <td align="right">&check; </td>
+      <td colspan="2">Introduction to Decoupled Applications </td>
+    </tr>
+    <tr>
+      <td align="right">&check; </td>
+      <td>Introduction to AWS Elastic Beanstalk </td>
+      <td>&nbsp;</td>
+      <td align="right">&check; </td>
+      <td colspan="2">Serverless Analytics </td>
+    </tr>
+    <tr>
+      <td colspan="6">&nbsp;</td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Amazon AWS: Networking and Content Delivery </strong></td>
+      <td>&nbsp;</td>
+      <td colspan="3">&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="right">&check; </td>
+      <td> Introduction to Amazon Route 53 Resolver</td>
+      <td>&nbsp;</td>
+      <td colspan="3">&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="right">&check; </td>
+      <td>Subnets, Gateways, and Route Tables Explained </td>
+      <td>&nbsp;</td>
+      <td colspan="3">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
 
-| Amazon AWS: Cloud Essentials                                      | | Amazon AWS: Storage                                        |
-|-------------------------------------------------------------------|-|------------------------------------------------------------|
-| [X] Cloud Practitioner Essentials                                 | | [X] Simple Storage Service - Basics                        |
-| [X] Introduction to Serverless Development                        | | [X] Introduction to AWS Snowmobile                         |
-| [X] Introduction to Amazon Elastic Compute Cloud (EC2)            | | [X] AWS Snowcone Getting Started                           |
-| [X] Foundations: Getting Started with the AWS Cloud Essentials    | | [X] Introduction to AWS Snowball Edge                      |
-| [X] Getting Started with Cloud Acquisition                        | | [X] Introduction to AWS Backup                             |
-|                                                                   | | [X] Introduction to Amazon FSx for Windows File Server     |
 
-| Amazon AWS: Compute                                               | | Amazon AWS: Serverless                                     |
-|-------------------------------------------------------------------|-|------------------------------------------------------------|
-| [X] Introduction to EC2 Auto Scaling                              | | [X] Introduction to Decoupled Applications                 |
-| [X] Introduction to AWS Elastic Beanstalk                         | | [X] Serverless Analytics                                   |
 
-| Amazon AWS: Networking and Content Delivery                       | |                                                            |
-|-------------------------------------------------------------------|-|------------------------------------------------------------|
-| [X] Introduction to Amazon Route 53 Resolver                      | |                                                            |
-| [X] Subnets, Gateways, and Route Tables Explained                 | |                                                            |
+
 
 ---
 
