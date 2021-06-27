@@ -38,7 +38,7 @@
     </tr>
     <tr>
       <td width="30" align="right">&check; </td>
-      <td width="49%">Cloud Practitioner Essentials</td>
+      <td>Cloud Practitioner Essentials</td>
       <td>&nbsp;</td>
       <td width="30" align="right">&check; </td>
       <td colspan="2">Simple Storage Service - Basics</td>
@@ -138,19 +138,77 @@
 
 ---
 
-# Free Code Camp Training
-| Responsive Web Design Certification                               | |                                                            |
-|-------------------------------------------------------------------|-|------------------------------------------------------------|
-| [X] Basic HTML and HTML5 - 28/28                                  | | [ ] Responsive Web Design Prinicpals - 0/4                 |
-| [ ] Basic CSS - 1/44                                              | | [ ] CSS Flexbox - 0/17                                     |
-| [ ] Applied Visual Design - 0/52                                  | | [ ] CSS Grid - 0/22                                        |
-| [ ] Applied Accessibility - 0/22                                  | | [ ] Responsive Web Design Projects - 0/5                   |
+<table width="100%" border="0" align="center" style="max-width:900px;">
+  <tbody>
+    <tr>
+      <td colspan="6" align="left" valign="middle"><h2>Free Code Camp Training
+      <img align="right" src="https://github.com/CrashOverrideProductions/ProfessionalDevelopment/blob/main/images/fcclogo.png?raw=true" alt=""/></h2></td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Responsive Web Design Certification</strong></td>
+      <td width="1%">&nbsp;</td>
+      <td colspan="3"><strong>Scientific Computing with Python Certification</strong></td>
+    </tr>
+    <tr>
+      <td width="30" align="right">&check; </td>
+      <td>Basic HTML and HTML5 - 28/28</td>
+      <td>&nbsp;</td>
+      <td width="30" align="right">&check; </td>
+      <td colspan="2">Python for Everybody - 56/56</td>
+    </tr>
+    <tr>
+      <td align="right">&cross; </td>
+      <td>Basic CSS - 1/44</td>
+      <td>&nbsp;</td>
+      <td align="right">&cross; </td>
+      <td colspan="2">Scientific Computing with Python Projects - 0/5</td>
+    </tr>
+    <tr>
+      <td align="right">&cross; </td>
+      <td>Applied Visual Design - 0/52</td>
+      <td>&nbsp;</td>
+      <td colspan="3" align="right">&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="right">&cross; </td>
+      <td>Applied Accessibility - 0/22</td>
+      <td>&nbsp;</td>
+      <td colspan="3" align="left"><strong>Data Analysis with Python Certification</strong></td>
+    </tr>
+    <tr>
+      <td align="right">&cross; </td>
+      <td>Responsive Web Design Prinicpals - 0/4</td>
+      <td>&nbsp;</td>
+      <td align="right">&cross; </td>
+      <td colspan="2">Data Analysis with Python Course - 28/28</td>
+    </tr>
+    <tr>
+      <td align="right">&cross; </td>
+      <td>CSS Flexbox - 0/17</td>
+      <td>&nbsp;</td>
+      <td align="right">&cross; </td>
+      <td colspan="2">Numpy - 9/9</td>
+    </tr>
+    <tr>
+      <td align="right">&cross; </td>
+      <td>CSS Grid - 0/22</td>
+      <td>&nbsp;</td>
+      <td align="right">&cross; </td>
+      <td colspan="2"> Data Analysis with Python Projects - 0/5</td>
+    </tr>
+    <tr>
+      <td align="right">&cross; </td>
+      <td>Responsive Web Design Projects - 0/5</td>
+      <td>&nbsp;</td>
+      <td colspan="3">&nbsp;</td>
+    </tr>
+    <tr>
+      <td colspan="6">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
 
-| Scientific Computing with Python Certification                    | | Data Analysis with Python Certification                    |
-|-------------------------------------------------------------------|-|------------------------------------------------------------|
-| [X] Python for Everybody - 56/56                                  | | [X] Data Analysis with Python Course - 28/28               |
-| [ ] Scientific Computing with Python Projects - 0/5               | | [X] Numpy - 9/9                                            |
-|                                                                   | | [ ] Data Analysis with Python Projects - 0/5               |
+
 
 ---
 
