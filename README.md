@@ -138,7 +138,7 @@
 
 ---
 
-<table width="900px" border="0" align="center" style="max-width:900px;">
+<table width="100%" border="0" align="center" style="max-width:900px;">
   <tbody>
     <tr>
       <td colspan="6" align="left" valign="middle"><h2>Free Code Camp Training
@@ -151,7 +151,7 @@
     </tr>
     <tr>
       <td width="30" align="right">&check; </td>
-      <td width="49%">Basic HTML and HTML5 - 28/28</td>
+      <td>Basic HTML and HTML5 - 28/28</td>
       <td>&nbsp;</td>
       <td width="30" align="right">&check; </td>
       <td colspan="2">Python for Everybody - 56/56</td>
@@ -207,7 +207,6 @@
     </tr>
   </tbody>
 </table>
-
 
 
 
