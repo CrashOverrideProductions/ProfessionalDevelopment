@@ -56,7 +56,7 @@
 
 <!-- Professional Training without Certifications -->
 # Professional Training
-<table width="95%" border="0" align="center" style="max-width:900px;">
+<table width="100%" border="0" align="center" style="max-width:900px;">
   <tbody>
     <tr>
       <td colspan="6" align="left" valign="bottom"><h2><strong>&nbsp;Amazon</strong><img align="right" src="https://github.com/CrashOverrideProductions/ProfessionalDevelopment/blob/main/images/awslogo.png?raw=true" alt=""/></h2></td>
@@ -154,7 +154,7 @@
       <td colspan="6" align="right">&nbsp;</td>
     </tr>
     <tr>
-      <td colspan="6" align="right"><h2><strong>Google</strong><img align="right" src="https://github.com/CrashOverrideProductions/ProfessionalDevelopment/blob/main/images/googlelogo.png?raw=true" alt=""/></h2></td>
+      <td colspan="6" align="left"><h2><strong>Google</strong><img align="right" src="https://github.com/CrashOverrideProductions/ProfessionalDevelopment/blob/main/images/googlelogo.png?raw=true" alt=""/></h2></td>
     </tr>
     <tr>
       <td align="right">&check; </td>
