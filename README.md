@@ -130,11 +130,32 @@
 ---
 
 <!-- Other Training -->
-# Udemy Training
-| Security                                                          | | Networking                                                 |
-|-------------------------------------------------------------------|-|------------------------------------------------------------|
-| [X] Wireshark: Packet Analysis and Ethical Hacking: Core Skills   | | [ ] Linux for Network Engineers: Practical Linux with GNS3 |
-|                                                                   | | [ ] Cisco CCNA 200-301 Exam: Complete Course               |
+<table width="95%" border="0" align="center" style="max-width:900px;">
+  <tbody>
+    <tr>
+      <td colspan="6" align="left" valign="bottom"><h2><strong>&nbsp;Udemy</strong><img align="right" src="https://raw.githubusercontent.com/CrashOverrideProductions/ProfessionalDevelopment/main/images/udemylogo.png" alt=""/></h2></td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Security</strong></td>
+      <td width="1%">&nbsp;</td>
+      <td colspan="3"><strong>Networking</strong></td>
+    </tr>
+    <tr>
+      <td width="30" align="right">&check; </td>
+      <td>Wireshark: Packet Analysis and Ethical Hacking: Core Skills</td>
+      <td>&nbsp;</td>
+      <td width="30" align="right">&cross; </td>
+      <td colspan="2">Linux for Network Engineers: Practical Linux with GNS3</td>
+    </tr>
+    <tr>
+      <td align="right">&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td align="right">&cross; </td>
+      <td colspan="2">Cisco CCNA 200-301 Exam: Complete Course</td>
+    </tr>
+  </tbody>
+</table>
 
 ---
 
