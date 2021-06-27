@@ -1,4 +1,3 @@
-# Professional Development and Training
 <p align="center">
 <img align="center" src="https://raw.githubusercontent.com/CrashOverrideProductions/ProfessionalDevelopment/main/header.jpg"> 
 
@@ -39,7 +38,7 @@
       <td>3CX Intermediate Certified Engineer v16</td>
       <td align="center">UBlSSR9LYN</td>
       <td align="center">06/05/2020</td>
-      <td align="center">&nbsp;</td>
+      <td align="center"><a href="https://github.com/CrashOverrideProductions/ProfessionalDevelopment/blob/main/Professional Certifications/3CX Intermediate - Justin_Bland-UBlSSR9LYN.pdf">Certification Certificate</a></td>
     </tr>
     <tr>
       <td align="right">&cross; </td>
@@ -50,6 +49,7 @@
     </tr>
   </tbody>
 </table>
+
 
 
 ---
