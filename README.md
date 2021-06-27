@@ -16,11 +16,41 @@
 ---
 # Industry Certifications
 
-| Certification                                     | ID         | Date       | Link |
-|---------------------------------------------------|------------|------------|------|
-| [X] 3CX Basic Certified Engineer v16              | YCISA7XdmT | xx/xx/xxxx |      |
-| [X] 3CX Intermediate Certified Engineer v16       | UBlSSR9LYN | xx/xx/xxxx |      |
-| [ ] 3CX Advanced Certified Engineer v16           |            | xx/xx/xxxx |      |
+<table width="100%" border="0" align="center" style="max-width:900px;">
+  <tbody>
+    <tr>
+      <td colspan="5" align="left" valign="bottom"><h2><strong>&nbsp;3CX</strong><img align="right" src="https://raw.githubusercontent.com/CrashOverrideProductions/ProfessionalDevelopment/main/images/3cxlogo.png" alt=""/></h2></td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Certification</strong></td>
+      <td align="center"><strong>ID</strong></td>
+      <td align="center"><strong>Date</strong></td>
+      <td align="center"><strong>Link</strong></td>
+    </tr>
+    <tr>
+      <td width="56" align="right">&check; </td>
+      <td>3CX Basic Certified Engineer v16</td>
+      <td align="center">YCISA7XdmT</td>
+      <td align="center">29/02/2020</td>
+      <td align="center"><a href="https://github.com/CrashOverrideProductions/ProfessionalDevelopment/blob/main/Professional Certifications/3CX Basic - Justin_Bland-YCISA7XdmT.pdf">Certification Certificate</a></td>
+    </tr>
+    <tr>
+      <td align="right">&check; </td>
+      <td>3CX Intermediate Certified Engineer v16</td>
+      <td align="center">UBlSSR9LYN</td>
+      <td align="center">06/05/2020</td>
+      <td align="center">&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="right">&cross; </td>
+      <td>3CX Advanced Certified Engineer v16</td>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+      <td align="center">&nbsp;</td>
+    </tr>
+  </tbody>
+</table>
+
 
 ---
 
