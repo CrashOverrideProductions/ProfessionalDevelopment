@@ -150,6 +150,48 @@
       <td>&nbsp;</td>
       <td colspan="3">&nbsp;</td>
     </tr>
+    <tr>
+      <td colspan="6" align="right">&nbsp;</td>
+    </tr>
+    <tr>
+      <td colspan="6" align="right"><h2><strong>Google</strong><img align="right" src="https://github.com/CrashOverrideProductions/ProfessionalDevelopment/blob/main/images/googlelogo.png?raw=true" alt=""/></h2></td>
+    </tr>
+    <tr>
+      <td align="right">&check; </td>
+      <td>Google Analytics for Beginners</td>
+      <td>&nbsp;</td>
+      <td colspan="3">&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="right">&cross; </td>
+      <td>Advanced Google Analytics</td>
+      <td>&nbsp;</td>
+      <td colspan="3">&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="right">&cross; </td>
+      <td>Google Analytics for Power Users</td>
+      <td>&nbsp;</td>
+      <td colspan="3">&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="right">&cross; </td>
+      <td>Getting Started With Google Analytics 360</td>
+      <td>&nbsp;</td>
+      <td colspan="3">&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="right">&cross; </td>
+      <td>Introduction to Data Studio</td>
+      <td>&nbsp;</td>
+      <td colspan="3">&nbsp;</td>
+    </tr>
+    <tr>
+      <td align="right">&cross; </td>
+      <td>Google Tag Manager Fundamentals</td>
+      <td>&nbsp;</td>
+      <td colspan="3">&nbsp;</td>
+    </tr>
   </tbody>
 </table>
 
