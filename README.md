@@ -73,7 +73,7 @@
       <td>Kaseya Certified Administrator - Bullphish ID</td>
       <td align="center"></td>
       <td align="center">03/12/2021</td>
-      <td align="center"><a href="https://github.com/CrashOverrideProductions/ProfessionalDevelopment/blob/main/Professional Certifications/Justin Bland - Kaseya Certified Administrator - BULLPHISH ID">Certification Certificate</a></td>
+      <td align="center"><a href="https://github.com/CrashOverrideProductions/ProfessionalDevelopment/blob/main/Professional Certifications/Justin Bland - Kaseya Certified Administrator - BULLPHISH ID.pdf">Certification Certificate</a></td>
     </tr>
     <tr>
       <td align="right">&check; </td>
