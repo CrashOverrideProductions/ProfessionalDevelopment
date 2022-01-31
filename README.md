@@ -50,6 +50,54 @@
   </tbody>
 </table>
 
+<table width="100%" border="0" align="center" style="max-width:900px;">
+  <tbody>
+    <tr>
+      <td colspan="5" align="left" valign="bottom"><h2><strong>&nbsp;Kaseya</strong><img align="right" src="https://raw.githubusercontent.com/CrashOverrideProductions/ProfessionalDevelopment/main/images/kaseya1.png" alt=""/></h2></td>
+    </tr>
+    <tr>
+      <td colspan="2"><strong>Certification</strong></td>
+      <td align="center"><strong>ID</strong></td>
+      <td align="center"><strong>Date</strong></td>
+      <td align="center"><strong>Link</strong></td>
+    </tr>
+    <tr>
+      <td width="56" align="right">&check; </td>
+      <td>Kaseya Certified Technician</td>
+      <td align="center">&nbsp;</td>
+      <td align="center">25/08/2021</td>
+      <td align="center"><a href="https://github.com/CrashOverrideProductions/ProfessionalDevelopment/blob/main/Professional Certifications/Justin Bland - Kaseya Certified Technician.pdf"Certification Certificate</a></td>
+    </tr>
+    <tr>
+      <td align="right">&check; </td>
+      <td>Kaseya Certified Administrator - Bullphish ID</td>
+      <td align="center"></td>
+      <td align="center">03/12/2021</td>
+      <td align="center"><a href="https://github.com/CrashOverrideProductions/ProfessionalDevelopment/blob/main/Professional Certifications/Justin Bland - Kaseya Certified Administrator - BULLPHISH ID">Certification Certificate</a></td>
+    </tr>
+    <tr>
+      <td align="right">&check; </td>
+      <td>Kaseya Certified Administrator - Darkweb ID/td>
+      <td align="center">&nbsp;</td>
+      <td align="center">03/12/2021;</td>
+      <td align="center"><a href="https://github.com/CrashOverrideProductions/ProfessionalDevelopment/blob/main/Professional Certifications/Justin Bland - Kaseya Certified Administrator - DARKWEB ID.pdf">Certification Certificate</a></td>
+    </tr>
+        <tr>
+      <td align="right">&check; </td>
+      <td>Kaseya Certified Administrator - Unitrends/td>
+      <td align="center">&nbsp;</td>
+      <td align="center">29/12/2021;</td>
+      <td align="center"><a href="https://github.com/CrashOverrideProductions/ProfessionalDevelopment/blob/main/Professional Certifications/Justin Bland - Kaseya Certified Administrator - Unitrends.pdf">Certification Certificate</a></td>
+    </tr>
+        <tr>
+      <td align="right">&check; </td>
+      <td>Kaseya Certified Administrator - VSA/td>
+      <td align="center">&nbsp;</td>
+      <td align="center">31/01/2022;</td>
+      <td align="center"><a href="https://github.com/CrashOverrideProductions/ProfessionalDevelopment/blob/main/Professional Certifications/Justin Bland - Kaseya Certified Administrator - VSA.pdf">Certification Certificate</a></td>
+    </tr>
+  </tbody>
+</table>
 
 
 ---
