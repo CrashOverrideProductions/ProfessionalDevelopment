@@ -77,21 +77,21 @@
     </tr>
     <tr>
       <td align="right">&check; </td>
-      <td>Kaseya Certified Administrator - Darkweb ID/td>
+      <td>Kaseya Certified Administrator - Darkweb ID</td>
       <td align="center">&nbsp;</td>
       <td align="center">03/12/2021</td>
       <td align="center"><a href="https://github.com/CrashOverrideProductions/ProfessionalDevelopment/blob/main/Professional Certifications/Justin Bland - Kaseya Certified Administrator - DARKWEB ID.pdf">Certification Certificate</a></td>
     </tr>
         <tr>
       <td align="right">&check; </td>
-      <td>Kaseya Certified Administrator - Unitrends/td>
+      <td>Kaseya Certified Administrator - Unitrends</td>
       <td align="center">&nbsp;</td>
       <td align="center">29/12/2021</td>
       <td align="center"><a href="https://github.com/CrashOverrideProductions/ProfessionalDevelopment/blob/main/Professional Certifications/Justin Bland - Kaseya Certified Administrator - Unitrends.pdf">Certification Certificate</a></td>
     </tr>
         <tr>
       <td align="right">&check; </td>
-      <td>Kaseya Certified Administrator - VSA/td>
+      <td>Kaseya Certified Administrator - VSA</td>
       <td align="center">&nbsp;</td>
       <td align="center">31/01/2022</td>
       <td align="center"><a href="https://github.com/CrashOverrideProductions/ProfessionalDevelopment/blob/main/Professional Certifications/Justin Bland - Kaseya Certified Administrator - VSA.pdf">Certification Certificate</a></td>
